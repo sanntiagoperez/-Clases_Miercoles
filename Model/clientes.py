@@ -17,3 +17,6 @@ class Cliente(ClienteBase):
 
 class ClienteEditar(ClienteBase):
     pass
+
+class ClienteEliminar(ClienteBase):
+    id:int
