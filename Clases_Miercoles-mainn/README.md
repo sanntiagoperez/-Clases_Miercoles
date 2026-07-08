@@ -6,3 +6,4 @@ Este proyecto consiste en la desarrollo de una API, utilizando FastApi con Pytho
 Tecnologías que se utilizaron: 
 Python- FastAPI- Uvicorn 
 
+ejecutar codigo con python -m uvicorn app.main:app --reload
