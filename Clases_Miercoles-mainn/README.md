@@ -7,3 +7,5 @@ Tecnologías que se utilizaron:
 Python- FastAPI- Uvicorn 
 
 ejecutar codigo con python -m uvicorn app.main:app --reload
+
+entregado :>
